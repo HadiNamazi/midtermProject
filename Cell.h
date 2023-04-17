@@ -4,6 +4,7 @@ using namespace std;
 #include "Genome.h"
 #include <algorithm>
 
+// salavat
 
 class Cell: private Genome{
 protected:
