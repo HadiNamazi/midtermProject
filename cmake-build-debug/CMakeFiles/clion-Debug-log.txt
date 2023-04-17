@@ -1,0 +1,4 @@
+/home/hadi/Downloads/Clion/clion-2022.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/hadi/Downloads/Clion/clion-2022.3/bin/ninja/linux/ninja -G Ninja -S /home/hadi/Desktop/C++/midtermProject -B /home/hadi/Desktop/C++/midtermProject/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hadi/Desktop/C++/midtermProject/cmake-build-debug
